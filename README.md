@@ -10,16 +10,13 @@
   <a href="https://github.com/grifis">
     <img height="20" src="https://img.shields.io/github/followers/grifis?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/grifis">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/grifis?label=Reddit&logo=reddit&style=flat" />
-  </a>
   <a href="https://stackoverflow.com/users/5720201/grifis">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="http://qiita.com/grifis">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/grifis/posts.svg" />
+  <a href="http://qiita.com/grim">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/grim/posts.svg" />
   </a>
-  <//qiita.com/yutkat">
+  <//qiita.com/grim">
     <img height="20" src="https://qiita-badge.apiapi.app/s/grifis/contributions.svg" />
   </a>
 </p>
