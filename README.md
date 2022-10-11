@@ -17,7 +17,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/grim/posts.svg" />
   </a>
   <//qiita.com/grim">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/gri/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/grim/contributions.svg" />
   </a>
 </p>
 
