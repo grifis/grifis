@@ -4,7 +4,7 @@
   <a href="https://github.com/grifis/grifis/">
     <img src="https://komarev.com/ghpvc/?username=grifis" alt="yutkat" />
   </a>
-  <a href="http://twitter.com/grifis">
+  <a href="http://twitter.com/grifis_it">
     <img height="20" src="https://img.shields.io/twitter/follow/grifis?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/grifis">
