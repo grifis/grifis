@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm grifis.
 
 <p align="left">
   <a href="https://github.com/grifis/grifis/">
